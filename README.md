@@ -67,4 +67,4 @@ Live Demo
 
 Visit the live application:
 
-https://nowshera-family-clinic-1.ai.studio
+https://ai.studio/apps/9a0a8219-51a2-47d6-9342-8393e15ce55a?fullscreenApplet=true
